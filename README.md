@@ -16,5 +16,5 @@
 
 🤔 Atualmente estou estudando ASP.NET CORE e SQL. 
 
-⚡ Fato interessante: Engenharia de Alimentos não tem nada a ver com nutrição ou Gastronomia.
+⚡ Fato interessante: Engenharia de Alimentos não tem nada a ver com Nutrição ou Gastronomia.
 
