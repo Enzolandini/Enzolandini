@@ -8,7 +8,7 @@
 
 🍕 Sou Engenheiro de Alimentos, e trabalho há 2 anos na área de controle de qualidade. 
 
-🍕 -> 💻 Estou em transição profissional, buscando a minha primeira oportunidade como Desenvolvedor.
+🍕 -> 💻 Estou em transição profissional, buscando a minha primeira oportunidade como Desenvolvedor de Software.
 
 💻 Estou curanso Análise e Desenvolvimento de Sistemas.
 
