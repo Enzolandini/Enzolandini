@@ -15,7 +15,7 @@
 
 📫 +55 (11) 99294-8854 - enzolandini@outlook.com.br
 
-🤔 Atualmente estou estudando C#, API REST, ASP.NET CORE e MySQL. 
+🤔 Atualmente estou estudando Java, API REST, Spring Framework, SQL e Angular. 
 
 ⚡ Fato interessante: Engenharia de Alimentos não tem nada a ver com Nutrição ou Gastronomia.
 
