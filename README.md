@@ -7,7 +7,7 @@
 
 ## Estou aprendendo: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" heigth ="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" heigth ="40"/>
 
-🍕 Sou Engenheiro de Alimentos, e trabalho há 2 anos na área de controle de qualidade. 
+🍕 Sou Engenheiro de Alimentos, e trabalhei 3 anos na área de controle de qualidade. 
 
 🍕 -> 💻 Estou em transição profissional, buscando a minha primeira oportunidade como Desenvolvedor de Software.
 
