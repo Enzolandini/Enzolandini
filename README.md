@@ -1,11 +1,10 @@
-### Console.WriteLine("Olá, Mundo! 👋")  
+### System.out.println("Olá, Mundo! 👋")  
 ### Eu sou o Enzo Landini!
 
 Desenvolvedor de Software com 2 anos e meio de experiência, criando aplicações completas com **Java**, **Spring**, **Angular** e **SQL Server**.  
 Sou movido por desafios, apaixonado por backend, e estou sempre buscando evoluir como desenvolvedor full stack.
 
-🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-
+Engenheiro de Alimentos e Analista de Sistemas
 ---
 
 <div>
@@ -29,23 +28,13 @@ Sou movido por desafios, apaixonado por backend, e estou sempre buscando evoluir
 
 ## 🧩 Projetos em Destaque
 
-### 📌 [Nome do Projeto 1](https://github.com/Enzolandini/nomedoprojeto1)
+### 📌 Criando sistema em repositório privado para gerenciamento de clinicas veterinárias.
 > Sistema completo com backend em Java + Spring e frontend em Angular.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
----
-
-### 📌 [Nome do Projeto 2](https://github.com/Enzolandini/nomedoprojeto2)
-> API RESTful com autenticação JWT, CRUD completo e banco relacional.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
