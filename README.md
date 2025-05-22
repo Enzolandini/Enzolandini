@@ -6,16 +6,6 @@ Sou movido por desafios, apaixonado por backend, e estou sempre buscando evoluir
 
 Engenheiro de Alimentos e Analista de Sistemas
 ---
-
-<div>
-  <a href="https://github.com/Enzolandini">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzolandini&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Enzolandini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
----
-
 ## 🚀 Tecnologias que utilizo no dia a dia:
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45" height="45"/>
